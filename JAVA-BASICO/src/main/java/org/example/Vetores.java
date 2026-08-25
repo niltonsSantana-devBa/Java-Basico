@@ -1,0 +1,15 @@
+package org.example;
+
+public class Vetores {
+    static void main() {
+        int[] notas = new int[2];
+        notas[0] = 10;
+        notas[1] = 8;
+
+        for (int i = 0; i < 2; i++)
+        {
+            System.out.println("Nota:" + notas[i]);
+        }
+    }
+
+}
