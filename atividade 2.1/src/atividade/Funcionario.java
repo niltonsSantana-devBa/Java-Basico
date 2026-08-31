@@ -1,6 +1,6 @@
 package atividade;
 
-public class Funcionario {
+public abstract class Funcionario {
     protected String nome;
     protected String email;
     protected float salario;
